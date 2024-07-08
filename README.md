@@ -55,7 +55,7 @@ I am Sadul Mateen, an experienced IT Security Professional with a strong foundat
 
 ## Network Security Engineer
 ## Charter Communications, Inc. - Denver, CO                                                                                                                                                                                  
-**Duration:** April 2023 – Dec 2023
+**Duration:** April 2023 – Present
 - **Security Architecture and Implementation:**  Designed and implemented advanced security measures by configuring ACLs, policies, filters, and rules on various security devices, including Cisco ASA-5585, PA 3220, Juniper SRX4100, and SRX 5800, enhancing overall network security by 20%.
 - **SIEM Management:** Customized SIEM dashboards for UEBA, Cisco, Palo Alto, Juniper SRX firewalls, switches, routers, and legacy servers in Splunk, improving threat detection and monitoring capabilities.
 - **Incident Response and Threat Hunting:** Conducted in-depth log analysis using Splunk and Kali Linux, effectively neutralizing DoS, DDoS, XSS, and SQL Injection attacks.
